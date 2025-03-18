@@ -10,9 +10,9 @@ Features
 - Enjoy a responsive design with interactive hover effects.
 
 Technologies Used
-- HTML : For structuring the content and layout of the web application.
-- CSS : For styling, layout, and responsive design.
-- JavaScript : For dynamic functionality and interactivity.
+- HTML: For structuring the content and layout of the web application.
+- CSS: For styling, layout, and responsive design.
+- JavaScript: For dynamic functionality and interactivity.
 
 File Structure
 
@@ -30,19 +30,14 @@ Installation and Usage
 3. Browse through the ramen menu, select an image to view its details, and use the form provided to add your own ramen dish.
 
 How It Works
-1. HTML (index.html) : Provides the foundational structure for the app.
-2. CSS (style.css) : Applies styles to create an attractive, user-friendly layout.
+1. HTML (index.html): Provides the foundational structure for the app.
+2. CSS (style.css): Applies styles to create an attractive, user-friendly layout.
 3. JavaScript (index.js) :
    - Dynamically displays the ramen menu.
    - Updates the details section when a ramen dish is clicked.
    - Handles new ramen submissions via the form.
 
-Future Improvements
-- Add persistent storage for ramen entries using local storage or a database.
-- Introduce a star-based rating system to enhance user interaction.
-- Implement additional animations and UI/UX improvements.
+
 
 Author
-Created by Tandie Oyucho. Contributions and feedback are welcome! Feel free to fork the repository and submit a pull request.
-
----
+Created by Tandie Oyucho.
