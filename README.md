@@ -43,6 +43,6 @@ Future Improvements
 - Implement additional animations and UI/UX improvements.
 
 Author
-Created by [Your Name]. Contributions and feedback are welcome! Feel free to fork the repository and submit a pull request.
+Created by Tandie Oyucho. Contributions and feedback are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
